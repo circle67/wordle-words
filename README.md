@@ -8,3 +8,7 @@ Repo with the two lists of words used by the game [Wordle](https://www.powerlang
 ---
 
 These lists are accurate as of 2/7/22, but probably won't be once NYT officially takes over the game.
+
+---
+
+* Formatted the `.csv` files to be separated by commas rather than new-lines.
